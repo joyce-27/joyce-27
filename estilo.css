@@ -17,133 +17,133 @@ body{
 #tt{
     width: 10%;
     height: 10%;
+
+
 }
+    
 #titulo2{
+    
     background-color: white;
     text-align: center;
     height: 100%;
-    width: auto;
-    line-height: 20px;
-    text-decoration-color: orange;   
-}
-#p1{
-    width: 10%;
-    height: 10%;
-}
-#imagem1{
     width: 100%;
-    height: auto;
+    line-height: 40px;
+    text-decoration-color: orange;  
+
 }
-#p2{
-    height: 10%;
-    width: 10%;
-}
+
+
 #img2{
-    width: auto;
-    height: 50%;
-}
-#paragrafo1{
-    text-align: center;
+    width: 70%;
+    height: 40%;
+
 }
 #titulo3{
     background-color:white;
     text-align: center;
-    height: auto;
+    text-decoration-color: tomato;
+    height: 100%;
     width:100% ;
-    line-height: 10px;
+    line-height: 40px;
+    
+}
+#p3{
+    height: 5px;
 }
 #img3{
-    width: auto;
-    height: 50%;
+    width: 60%;
+    height: 30%;
 }
 #t4{
     background-color: white;
     text-align: center;
-    width: auto;
+    height: 100%;
+    width: 100%;
+    line-height: 40px;
 }
 #img4{
-    height:50%;
-    width: auto;
+    height:40%;
+    width: 70%;
 }
 #t5{
     background-color: white;
     text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
-    line-height: 50px;
+    line-height: 40px;
 }
 #img5{
-    height: 50%;
-    width: auto;
+    height: 40%;
+    width: 70%;
 }
 #t6{
     background-color: white;
     text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
-    line-height: 50px;
+    line-height: 40px;
 }
 #img6{
-    height: auto;
-    width: 100%;
+    height: 70%;
+    width: 40%;
 }
 #T7{
     background-color: white;
     text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
-    line-height: 50px;
+    line-height: 40px;
     
 }
 #img7{
-    height: auto;
-    width: 50%;
+    height: 40%;
+    width: 70%;
 }
 #T8{
     background-color: white;
     text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
     line-height: 40px;
 
 }
 #img8{
-    height: auto;
-    width: 50%;
+    height: 40%;
+    width: 70%;
 }
 #t9{
     background-color: white;
     text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
     line-height: 40px;
 }
 #img9{
-    height: auto;
-    width: 50%;
+    height: 40%;
+    width: 70%;
 }
 #t10{
     background-color: WHITE;
     text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
-    line-height: 50px;
+    line-height: 40px;
 }
 #img10{
-    height: auto;
-    width: 50%;
+    height: 40%;
+    width: 70%;
 }
 #t11{
     background-color: white;
     text-align: center;
-    height: auto;
+    height: 100%;
     width:100% ;
-    line-height: 50px;
-    ;
+    line-height: 40px;
+    
 }
 #img11{
-    height: auto;
-    width: 50%;
+    height: 40%;
+    width: 62%;
 }
 #RR{
     text-align: center;
@@ -151,7 +151,8 @@ body{
     height: 20%;
 }
 #IMG12{
-    height: 20%;
-    width: 20%;
+    height: 70%;
+    width: 30%;
 
 }
+
