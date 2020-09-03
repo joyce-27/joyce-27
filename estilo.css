@@ -14,16 +14,16 @@ body{
     background-color:wheat;
     text-align: center;
     height: 100%;
-    width: 100%;
-    font-size: 20px;
-    line-height: 10px;
-    font: x-small;
+    width:100% ;
+    line-height: 30px;
+    font-size: x-large;
+   
 
     
 }
 #gg{
     width:20% ;
-    height: 30%;
+    height: 20%;
 }
 
 #al{
@@ -55,7 +55,7 @@ body{
     text-align: center;
     height: 100%;
     width:100% ;
-    line-height: 10px;
+    line-height: 30px;
     font-style: italic;
       
     
