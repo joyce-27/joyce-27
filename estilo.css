@@ -20,23 +20,27 @@ body{
     text-align: center;
     height: 100%;
     width: 100%;
-    font-size: 50px;
-    line-height: 40px;
+    font-size: 40px;
+    line-height: 20px;
     font: x-small;
 
     
+}
+#gg{
+    width:20% ;
+    height: 30%;
 }
 
 #al{
     width: 20%;
     height: 20%;
-    line-height: 40px;
+   
     
 }
 #tt{
     width: 20%;
     height: 20%;
-    line-height: 20px;
+   
 
 
 }
